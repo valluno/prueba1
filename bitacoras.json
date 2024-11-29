@@ -1,0 +1,28 @@
+[
+  
+    {
+      "id":0,
+      "nombre":"BITACORA DE INCIDENTES",
+      "descripcion_incidente":"BITACORA DE INCIDENTES",
+      "fecha_incidente": "00/00/00",
+      "fecha_revision": "00/00/00",
+      "descripcion_actividad":"Incidente 0"
+    },
+
+    {
+      "id":1,
+      "nombre":"INCIDENTE 1",
+      "descripcion_incidente":"ERROR EN LA RED",
+      "fecha_incidente": "00/00/00",
+      "fecha_revision": "00/00/00",
+      "descripcion_actividad":"Incidente 1"
+    }
+
+]
+    
+
+   
+
+
+
+   
